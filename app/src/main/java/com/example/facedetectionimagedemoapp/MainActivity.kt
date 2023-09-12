@@ -121,6 +121,7 @@ class MainActivity : AppCompatActivity() {
         )
         //set cropped bitmap to imageview
         viewBinding.croppedIv.setImageBitmap(croppedBitmap)
+        //add comments
     }
 
 }
